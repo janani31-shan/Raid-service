@@ -1,16 +1,10 @@
-# Raid-service
+# Ride-hailing-service
 
-A new Flutter project.
+My ride-hailing app ignited a transportation revolution. User-friendly booking, live tracking, and secure payments put you in control. Plus, my dynamic geolocation routing gets you there smarter, not harder.
+## Tech Stack 🚀
+1. flutter or kotlin,
+2. node
+## Screenshots 📷
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
